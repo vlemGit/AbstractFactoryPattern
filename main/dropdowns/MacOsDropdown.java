@@ -1,4 +1,4 @@
-package dropdown;
+package dropdowns;
 
 import interfaces.Dropdown;
 import java.util.logging.Logger;

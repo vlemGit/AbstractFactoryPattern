@@ -2,7 +2,7 @@ package factories;
 
 import buttons.MacOsButton;
 import checkboxes.MacOsCheckbox;
-import dropdown.MacOsDropdown;
+import dropdowns.MacOsDropdown;
 import interfaces.Checkbox;
 import interfaces.Dropdown;
 import interfaces.Button;

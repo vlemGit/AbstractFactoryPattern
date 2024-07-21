@@ -2,7 +2,7 @@ package factories;
 
 import buttons.WindowsButton;
 import checkboxes.WindowsCheckbox;
-import dropdown.WindowsDropdown;
+import dropdowns.WindowsDropdown;
 import interfaces.Checkbox;
 import interfaces.Dropdown;
 import interfaces.Button;
